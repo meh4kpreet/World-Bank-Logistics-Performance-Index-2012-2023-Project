@@ -1,5 +1,5 @@
 
-# Global Supply Chain Disruptions Post-COVID: LPI Analysis (2012–2023)
+# Global Supply Chain Disruptions Post-COVID: World Bank LPI Analysis (2012–2023)
 
 ## Objective
 
