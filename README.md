@@ -26,9 +26,6 @@ Includes scores for 6 key components across 150+ countries:
 
 * **Data Wrangling**: `Pandas`, `NumPy`
 * **EDA & Visualization**: `Matplotlib`, `Seaborn`
-* **Time-Series Forecasting**:
-
-  * `Prophet` and `ARIMA` for India’s LPI trend
 
 ---
 
@@ -56,7 +53,6 @@ Improved from 2.794 to 2.855 (+2.17%), indicating modest gains in clearance proc
 * Python (Google Colab)
 * `Pandas`, `NumPy`
 * `Matplotlib`, `Seaborn`
-* `Prophet`, `ARIMA`
 
 ---
 
