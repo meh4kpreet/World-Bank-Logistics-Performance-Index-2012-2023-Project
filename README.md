@@ -59,4 +59,4 @@ Improved from 2.794 to 2.855 (+2.17%), indicating modest gains in clearance proc
 ## Conclusion
 
 COVID-19 triggered systemic inefficiencies in global logistics. While 2023 shows signs of recovery, investment in **customs**, **tracking**, and **shipment reliability** is critical—especially for emerging economies.
-on
+
