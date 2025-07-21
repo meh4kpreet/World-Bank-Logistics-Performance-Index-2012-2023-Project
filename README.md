@@ -16,7 +16,7 @@ Includes scores for 6 key components across 150+ countries:
 * **Customs**
 * **Infrastructure**
 * **International Shipments**
-* **Logistics Competence**
+* **Logistics Competence and Quality Rank**
 * **Tracking & Tracing**
 * **Timeliness**
 
