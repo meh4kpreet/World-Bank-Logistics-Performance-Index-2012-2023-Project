@@ -1,21 +1,21 @@
-🎯 Project Objective:
+🎯 **Project Objective:**
 To analyze and understand the impact of the COVID-19 pandemic on global logistics performance using the World Bank’s Logistics Performance Index (LPI). The project focuses on evaluating trends across countries from 2012 to 2023 and predicting India’s LPI score for 2026.
 
 
-📦 Dataset Source:
+📦 **Dataset Source:**
 World Bank Logistics Performance Index (LPI) – https://lpi.worldbank.org/report  
 Dataset includes country-level LPI data and its components: Customs, Infrastructure, International Shipments, Logistics Quality, Tracking & Tracing, and Timeliness.
 
 
 
-🔍 Methods Used:
+🔍 **Methods Used:**
 - Data Cleaning & Wrangling using Pandas
 - Exploratory Data Analysis (EDA) and Visualisation using Matplotlib & Seaborn
 - Time Series Forecasting:
    • Prophet for India’s LPI trend
 
 
-📈 Key Findings:
+📈 **Key Findings:**
 1. Global Logistics Performance Peaked Around 2016
 Average global LPI score peaked at ~3.15 in 2016, followed by a decline till 2020 and only partial recovery by 2023.
 
@@ -44,7 +44,7 @@ United States maintained a good LPI score (~3.5) but dropped in global ranking p
 
 
 
-⚙️ Tools & Libraries:
+⚙️ **Tools & Libraries:**
 - Python (Google Colab)
 - Pandas, NumPy
 - Matplotlib, Seaborn
@@ -52,11 +52,11 @@ United States maintained a good LPI score (~3.5) but dropped in global ranking p
 
 
 
-✅ Conclusion:
+✅ **Conclusion:**
 COVID-19 significantly disrupted global logistics, especially in low- and middle-income countries. While recovery is visible in 2023 data, infrastructure and shipment reliability remain major concerns. Insights can help policymakers prioritize investments in customs and tracking systems.
 
 
 
-📅 Forecast for 2026:
+📅 **Forecast for 2026:**
 Based on Prophet & ARIMA models, **India's LPI score is expected to rise slightly to ~3.18 by 2026**, indicating a slow but steady post-pandemic recovery.
 
